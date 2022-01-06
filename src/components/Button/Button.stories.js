@@ -39,8 +39,8 @@ Danger.args = {
   children: "Danger Button",
 };
 
-export const LongPrimaryA = Template.bind({});
-LongPrimaryA.args = {
-  ...PrimaryA.args,
+export const LongPrimary = Template.bind({});
+LongPrimary.args = {
+  ...Primary.args,
   children: "Long Primary Args",
 };
